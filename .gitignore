@@ -1,3 +1,5 @@
 # Build folder and log file
 build/
 build.log
+
+pip install -U prefect && prefect cloud login 
